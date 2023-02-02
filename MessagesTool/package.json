@@ -1,0 +1,20 @@
+{
+  "name": "com.dv.message-tools",
+  "version": "1.0.1",
+  "displayName": "Message Tools",
+  "description": "This is a tool that:\n1.) Creates messages which appear similar to how Toast and Snackbar messages appear on Android\n2.) Displays data in sepparate text view windows on screen",
+  "unity": "2021.3",
+  "unityRelease": "17f1",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "tools",
+    "messages"
+  ],
+  "author": {
+    "name": "dv",
+    "email": "denis.v.velinov@gmail.com",
+    "url": "https://www.github.com/denisvelinov"
+  }
+}
